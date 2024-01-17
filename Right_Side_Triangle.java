@@ -1,5 +1,3 @@
-package Patterns;
-
 /*
     Right Side Triangle
 

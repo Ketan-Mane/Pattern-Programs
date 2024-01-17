@@ -1,4 +1,3 @@
-package Patterns;
 
 /**
 Half_Pyramid

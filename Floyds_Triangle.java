@@ -1,4 +1,3 @@
-package Patterns;
 /**
  * Floyds_Triangle
 1 
